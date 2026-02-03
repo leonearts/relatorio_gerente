@@ -1,0 +1,7 @@
+id,pergunta,tipo
+1,Qual técnico precisou de mais apoio hoje e por quê?,texto
+2,Qual o maior risco para amanhã?,texto
+3,O padrão de limpeza no fim do turno foi seguido?,texto
+4,o padrão de atendimento foi seguido por todos hoje?,texto
+5,Houve necessidade de correção de comportamento hoje? Qual?,texto
+6,Algo que aconteceu hoje se repetiu ou já aconteceu outras vezes?,texto

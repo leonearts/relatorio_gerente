@@ -1,0 +1,8 @@
+id,pergunta,tipo
+1,Quantos carros entraram hoje?,numero
+2,Quantos carros foram entregues hoje?,numero
+3,Qual técnico precisou de mais apoio hoje e por quê?,texto
+4,Qual o maior risco para amanhã?,texto
+5,O padrão de limpeza no fim do turno foi seguido?,texto
+6,Houve necessidade de correção de comportamento hoje? Qual?,texto
+7,Algo que aconteceu hoje se repetiu ou já aconteceu outras vezes? O que poderia ser feito sempre da mesma forma? ,texto
