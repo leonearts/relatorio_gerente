@@ -1,8 +1,8 @@
 id,pergunta,tipo
-1,Quantos carros entraram hoje?,numero
-2,Quantos carros foram entregues hoje?,numero
-3,Qual técnico precisou de mais apoio hoje e por quê?,texto
-4,Qual o maior risco para amanhã?,texto
-5,O padrão de limpeza no fim do turno foi seguido?,texto
+1,A agenda está em ordem? Todos os técnicos estão associados aos seus serviços?,texto
+2,Qual técnico precisou de mais apoio hoje e por quê?,texto
+3,Qual o maior risco para amanhã?,texto
+4,O padrão de limpeza no fim do turno foi seguido?,texto
+5,O padrão de atendimento foi seguido por todos hoje?,texto
 6,Houve necessidade de correção de comportamento hoje? Qual?,texto
 7,Algo que aconteceu hoje se repetiu ou já aconteceu outras vezes? O que poderia ser feito sempre da mesma forma? ,texto
